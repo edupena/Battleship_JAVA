@@ -10,4 +10,5 @@ You will need to build the core and add it to the GUI. (If you have problems you
 The rules are slightly different than in the original game:
 
 a) Each case has many "lives", depending on the type of ship (it must be hit more than once).
+
 b) Each ship has a different attack power. The bigger the ship, the more powerful the attack.
